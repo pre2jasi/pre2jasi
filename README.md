@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Nubari
 
-🔭 I’m a Software and Cloud Engineer | AWS Certified | Azure Certified | Terraform Specialist | Kubernetes | CI/CD Automation Expert
+🔭 A Software and Cloud Engineer | AWS Certified | Azure Certified | Terraform Specialist | Kubernetes | CI/CD Automation Expert
 
 🚀 Cloud & DevOps Engineer with 5+ years of experience designing, implementing, and optimizing highly available, secure, and scalable cloud-native platforms across AWS and Azure environments.
 

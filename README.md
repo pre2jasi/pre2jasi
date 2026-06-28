@@ -54,10 +54,8 @@
 
 | 🛠 Project                                                                                     | 💬 Description                                                                                                             |
 |------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| [🔗 CloudOpsX Dashboard](https://github.com/Simran-Kaur1996/cloudopsx-dashboard)              | A simple java application to book airline tickets
-|
-| [🔗 CloudCart – Serverless eCommerce](https://github.com/Simran-Kaur1996/cloud-cart)          | A simple Java and Spring Boot Based application to demo a bank Application 
-|
+| [🔗 CloudOpsX Dashboard](https://github.com/Simran-Kaur1996/cloudopsx-dashboard)              | Real-time inventory monitoring dashboard (React + Chart.js) with AWS Lambda, DynamoDB, EKS, Jenkins CI/CD, ArgoCD         |
+| [🔗 CloudCart – Serverless eCommerce](https://github.com/Simran-Kaur1996/cloud-cart)          | Fully serverless app using Lambda, API Gateway, DynamoDB, CloudFront, GitHub Actions                                      |
 | [🔗 Dockerized ECS Pipeline](https://github.com/Simran-Kaur1996/docker-ecr-ecs-deployment)    | Containerized Node.js backend deployed via Docker, ECR, ECS Fargate with ALB and Terraform                                |
 | [🔗 Dynamic Web App CI/CD](https://github.com/Simran-Kaur1996/AWS-Dynamic-Web-App)            | Dynamic app with automated CI/CD pipeline using GitHub Actions, EC2, CodeDeploy, Terraform                                |
 | [🔗 Linux Admin Learning](https://github.com/Simran-Kaur1996/Linux-Admin-Learning)            | Hands-on Bash scripting, ACLs, cron jobs, Linux permissions for admin & DevSecOps use cases                               |

@@ -51,7 +51,7 @@
 
 | 🛠 Project                                                                                     | 💬 Description                                                                                                             |
 |------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| [🔗 CloudOpsX Dashboard](https://github.com/pre2jasi/onboarding-application-demo)              | A simple email application to onboard staff to afictitious company, create email and assign themto departments.         |
+| [🔗 Onboarding Application](https://github.com/pre2jasi/onboarding-application-demo)              | A simple email application to onboard staff to afictitious company, create email and assign themto departments.         |
 | [🔗 CloudCart – Serverless eCommerce](https://github.com/Simran-Kaur1996/cloud-cart)          | Fully serverless app using Lambda, API Gateway, DynamoDB, CloudFront, GitHub Actions                                      |
 | [🔗 Dockerized ECS Pipeline](https://github.com/Simran-Kaur1996/docker-ecr-ecs-deployment)    | Containerized Node.js backend deployed via Docker, ECR, ECS Fargate with ALB and Terraform                                |
 | [🔗 Dynamic Web App CI/CD](https://github.com/Simran-Kaur1996/AWS-Dynamic-Web-App)            | Dynamic app with automated CI/CD pipeline using GitHub Actions, EC2, CodeDeploy, Terraform                                |

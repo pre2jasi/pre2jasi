@@ -41,12 +41,12 @@
 
 | 🛠 Project                                                                                     | 💬 Description                                                                                                             |
 |------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| [🔗 Airline Booking System](https://github.com/pre2jasi/Airline-Booking-System)              | A simple java application to book airline tickets         
+| [🔗 Airline Booking System](https://github.com/pre2jasi/Airline-Booking-System)                        | A simple java application to book airline tickets         
 |
 | [🔗 NubbyBank – Simple Bank Application](https://github.com/pre2jasi/Java-Bank-Demo-Application)       | A simple Java and Spring Boot Based application to demo a bank Application                                      
 |
-| [🔗 Dockerized ECS Pipeline](https://github.com/Simran-Kaur1996/docker-ecr-ecs-deployment)    | Containerized Node.js backend deployed via Docker, ECR, ECS Fargate with ALB and Terraform                                |
-| [🔗 Dynamic Web App CI/CD](https://github.com/Simran-Kaur1996/AWS-Dynamic-Web-App)            | Dynamic app with automated CI/CD pipeline using GitHub Actions, EC2, CodeDeploy, Terraform                                |
-| [🔗 Student Registration App](https://github.com/pre2jasi/student-registration-app)            | A simple email application to onboard staff to afictitious company, create email and assign them to departments          |                |
+| [🔗 Dockerized ECS Pipeline](https://github.com/Simran-Kaur1996/docker-ecr-ecs-deployment)             | Containerized Node.js backend deployed via Docker, ECR, ECS Fargate with ALB and Terraform                       |
+| [🔗 Dynamic Web App CI/CD](https://github.com/Simran-Kaur1996/AWS-Dynamic-Web-App)                     | Dynamic app with automated CI/CD pipeline using GitHub Actions, EC2, CodeDeploy, Terraform                       |
+| [🔗 Student Registration App](https://github.com/pre2jasi/student-registration-app)                    | A simple email application to onboard staff to afictitious company, create email and assign them to departments  |                |
 
 ---

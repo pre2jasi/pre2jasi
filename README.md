@@ -24,6 +24,7 @@
 
 | Category                     | Tools & Skills                                                                                  |
 |------------------------------|-----------------------------------------------------------------------------------------------|
+| ☁️ **Programming Language**       | Java, Python, Go    |
 | ☁️ **Cloud Platforms**       | AWS (EC2, S3, Lambda, RDS, VPC, CloudFront, Route 53, WAF, Shield, IAM), Azure, CLI, SDKs      |
 | 📦 **Containerization**      | Docker, Docker Compose, Kubernetes, EKS, AKS, Helm                                            |
 | ⚙️ **IaC & Automation**      | Terraform, CloudFormation, Ansible, CrossPlane                                                |
